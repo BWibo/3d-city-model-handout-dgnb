@@ -1,14 +1,9 @@
 ###############################################################################
-Handout - DGNB Seminar
+DGNB Seminar - Klimaneutraler Gebäudebestand mit 3D-Stadtmodellen
 ###############################################################################
 
 .. rubric:: Klimaneutrale Quartiere: richtige Entscheidungen treffen mit
   Geoinformationen und 3D-Stadtmodellen
-
-Index
-===============================================================================
-
-* :ref:`genindex`
 
 .. toctree::
   :maxdepth: 3
@@ -19,7 +14,10 @@ Index
   tools/tools
   apps/apps
 
-Suchen
+* :ref:`genindex`
+
+Kontakt
 ===============================================================================
 
-* :ref:`search`
+* Bruno Willenborg, b.willenborg(at)tum.de
+* Hannes Harter, hannes.harter(at)tum.de
