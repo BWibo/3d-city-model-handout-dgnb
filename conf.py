@@ -171,8 +171,8 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'MyLittleHelpers.tex', u'My Little Helpers Documentation',
-     u'Bruno Willenborg', 'manual'),
+    (master_doc, 'handout_dgnb_seminar.tex', u'Handout DGNB Seminar - Klimaneutrale Gebäude',
+     u'Bruno Willenborg & Hannes Harter', 'manual'),
 ]
 
 
@@ -181,7 +181,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'mylittlehelpers', u'My Little Helpers Documentation',
+    (master_doc, 'handout_dgnb_seminar', u'Handout DGNB Seminar - Klimaneutrale Gebäude',
      [author], 1)
 ]
 
