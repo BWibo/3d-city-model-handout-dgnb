@@ -21,7 +21,7 @@ Glossar: Begriffe und Definitionen
 
   AdV
     Die Arbeitsgemeinschaft der Vermessungsverwaltungen der Länder der
-    Bundesrepublik Deutschland (AdV). Mehr auf `https://www.adv-online.de`_.
+    Bundesrepublik Deutschland (AdV). Mehr auf `<https://www.adv-online.de>`_.
 
   LoD
     Als `Level-of-Detail (LoD) <https://de.wikipedia.org/wiki/Level_of_Detail>`_
