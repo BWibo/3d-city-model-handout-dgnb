@@ -4,3 +4,5 @@ CityGML
 
 .. toctree::
   :maxdepth: 3
+
+  data-availability
