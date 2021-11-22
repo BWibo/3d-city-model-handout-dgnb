@@ -45,5 +45,5 @@ CityGML wird weltweit (besonders in Europa) eingesetzt.
 
 .. rubric:: Links
 
-`Awesome cityGML <https://github.com/OloOcki/awesome-citygml>`_
+`Awesome CityGML <https://github.com/OloOcki/awesome-citygml>`_
   Sammlung von internationalen CityGML-Modellen auf Github.
