@@ -98,7 +98,7 @@ sphinxemoji_style = 'twemoji'
 # html_theme_path = ["_themes", ]
 
 html_theme = "sphinx_rtd_theme"
-html_favicon = 'favicon.png'
+html_favicon = 'img/icon/favicon_tum.svg'
 
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
@@ -110,7 +110,7 @@ html_theme_options = {
     'logo_only': False,
     'display_version': True,
     'prev_next_buttons_location': 'bottom',
-    'style_external_links': True,
+    'style_external_links': False,
     #'vcs_pageview_mode': '',
     'style_nav_header_background': '#2980B9',
     # Toc options
