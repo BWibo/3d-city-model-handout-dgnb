@@ -14,6 +14,9 @@ Links und Referenzen
   Video in englischer Sprache zu semantischen 3D-Stadtmodellen, das kurz und
   prägnant die Grundlagen erklärt.
 
+`Christof Beil's Youtube Channel <https://www.youtube.com/channel/UCl04vUc2Ci7DLm3jeah2yHg>`_
+  Youtube Channel mit vielen Beispielvideos zu semantischen 3D-Stadtmodellen,
+  v.A. für Modelle des Straßenraums.
 
 *******************************************************************************
 Publikation zu semantischen 3D-Stadtmodellen
