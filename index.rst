@@ -14,6 +14,7 @@ DGNB Seminar - Klimaneutraler Gebäudebestand mit 3D-Stadtmodellen
   tools/tools
   apps/apps
   glossary/glossary
+  literature
 
 * :ref:`genindex`
 
@@ -29,7 +30,7 @@ Bruno Willenborg
 
 :Web: |tum_bw|
 
-:Social: |linkedin_bw| |orcid_bw|
+:Social: |linkedin_bw| |orcid_bw| |rg_bw|
 
 :Github: | https://github.com/BWibo
          | https://github.com/tum-gis
@@ -44,7 +45,7 @@ Hannes Harter
 
 :Web: |tum_hh|
 
-:Social: |linkedin_hh|
+:Social: |linkedin_hh| |rg_hh|
 
 :Github: | https://github.com/TUMhannes
 
@@ -52,20 +53,35 @@ Hannes Harter
 
 .. |linkedin_bw| image:: img/icon/linkedin.png
   :width: 25 px
+  :align: middle
   :target: https://www.linkedin.com/in/bruno-willenborg-781227149/
 
 .. |orcid_bw| image:: img/icon/orcid.png
   :width: 25 px
+  :align: middle
   :target: https://orcid.org/0000-0001-7121-5525
 
 .. |linkedin_hh| image:: img/icon/linkedin.png
   :width: 25 px
+  :align: middle
   :target: https://www.linkedin.com/in/hannes-harter-a5605b165/
 
 .. |tum_bw| image:: img/icon/favicon_tum.svg
   :width: 25 px
+  :align: middle
   :target: https://www.asg.ed.tum.de/gis/unser-team/lehrstuhlangehoerige/bruno-willenborg/
 
 .. |tum_hh| image:: img/icon/favicon_tum.svg
   :width: 25 px
+  :align: middle
   :target: https://www.cee.ed.tum.de/enpb/team/hannes-harter/
+
+.. |rg_bw| image:: img/icon/researchgate.svg
+  :width: 25 px
+  :align: middle
+  :target: https://www.researchgate.net/profile/Bruno-Willenborg
+
+.. |rg_hh| image:: img/icon/researchgate.svg
+  :width: 25 px
+  :align: middle
+  :target: https://www.researchgate.net/profile/Hannes-Harter
