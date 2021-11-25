@@ -11,13 +11,6 @@ Literatur
     Weblink (accessed March 2020):
     http://mediatum.ub.tum.de/doc/1145752/947446.pdf
 
-.. [YaCK2016] Yao, Z., Chaturvedi, K., Kolbe, T. H. (2016): *Browserbasierte
-    Visualisierung großer 3D-Stadtmodelle durch Erweiterung des Cesium Web
-    Globe*. In: Kolbe, T. H., Bill, R., Donaubauer, A. (eds.):
-    Geoinformationssysteme 2016 - Beiträge zur 3. Münchner GI-Runde, 24.-25.
-    2. 2016, Wichmann Verlag, Berlin. Weblink (accessed March 2020):
-    http://mediatum.ub.tum.de/doc/1296408/547142.pdf
-
 .. [YaKo2017] Yao, Z., Kolbe, T. H. (2017): *Dynamically Extending Spatial Databases
     to support CityGML Application Domain Extensions using Graph
     Transformations*. In: Kersten, T.P. (ed.): Beitrag zur 37.
@@ -65,6 +58,17 @@ Literatur
     1.0.0. Open Geospatial Consortium, Doc. No. 08-007r1, August 20th.
     Weblink (accessed March 2020):
     http://portal.opengeospatial.org/files/?artifact_id=28802
+
+.. [KKSN2021] Kolbe, T. H., Kutzner, T., Smyth C.S., Nagel, C., Roensdorf,
+    C, Heazel, C.(2021): *OGC City Geography Markup Language (CityGML) Part 1:
+    Conceptual Model Standard*, Version 3.0.0.,
+    Open Geospatial Consortium, Doc. No. 20-010,
+    https://docs.ogc.org/is/20-010/20-010.html
+
+.. [C2021] Heazel, C.(2021): *OGC City Geography Markup Language (CityGML) 3.0
+    Conceptual Model Users Guide*, Version 1.0.,
+    Open Geospatial Consortium, Doc. No. 20-066,
+    https://docs.ogc.org/guides/20-066.html
 
 .. [ChYK2015] Chaturvedi, K., Yao, Z., Kolbe, T. H. (2015): *Web-based Exploration of
     and Interaction with Large and Deeply Structured Semantic 3D City Models
