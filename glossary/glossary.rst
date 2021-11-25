@@ -37,5 +37,5 @@ Glossar: Begriffe und Definitionen
     Er gibt an, welche Wärmeleistung pro Quadratmeter eines Bauteils strömt,
     wenn dessen Außen- und Innenfläche einem konstanten Temperaturunterschied
     von einem Grad Kelvin ausgesetzt sind. Je niedriger der U-Wert, umso höher
-    die Dämmwirkung eines Bauteils
+    die Dämmwirkung eines Bauteils.
 
