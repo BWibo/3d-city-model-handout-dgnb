@@ -5,7 +5,7 @@
 Datenquellen und Datenverfügbarkeit in Deutschland
 ###############################################################################
 
-CityGML-konforme semantische 3D-Stadtmodelle sind heute im Level-of-Detail 2 (LoD2)
+CityGML-konforme semantische 3D-Stadtmodelle sind heute im :term:`LoD2<LoD>`
 für ganz Deutschland verfügbar. Je nach Region sind die Daten Open Data oder
 kostenpflichtig.
 
@@ -36,6 +36,9 @@ Amtliche Datenquellen
 
 `BKG LoD2 Update <https://www.bkg.bund.de/SharedDocs/Produktinformationen/BKG/DE/P-2020/201204_LoD2.html>`_
   Neue Version des LoD2-Modells veröffentlicht.
+
+`LDBV LoD2 Arbeitsstand <http://www.geodaten.bayern.de/download/uebersicht_LOD/LoD2_InternetUebersicht.pdf>`_
+  Arbeitsstand bei der Aktualisierung der LoD2-Modelle des LDBV.
 
 *******************************************************************************
 CityGML-Daten auf der ganzen Welt
