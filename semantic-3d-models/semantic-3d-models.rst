@@ -6,6 +6,6 @@ Semantische 3D-Stadtmodelle
   :maxdepth: 3
 
 
-Artikel zu semantischen 3D-Stadtmodellen:
+Literatur zu semantischen 3D-Stadtmodellen:
 
-* [Kolb2009]_
+* Basispublikation zu semantischen 3D-Stadtmodellen und CityGML: [Kolb2009]_
