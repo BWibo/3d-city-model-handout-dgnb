@@ -31,11 +31,10 @@ Glossar: Begriffe und Definitionen
     Detailstufen benötigt.
 
   U-Wert
-    Der `U-Wert <https://www.energie-lexikon.info/waermedurchgangskoeffizient.html>` 
-    oder Wärmedurchgangskoeffizient definiert sich als ein Maß für die 
+    Der `U-Wert <https://www.energie-lexikon.info/waermedurchgangskoeffizient.html>`_
+    oder Wärmedurchgangskoeffizient definiert sich als ein Maß für die
     Wärmedurchlässigkeit eines  Bauteils mit der Einheit [W/m\ :sup:`2`\ *K].
     Er gibt an, welche Wärmeleistung pro Quadratmeter eines Bauteils strömt,
     wenn dessen Außen- und Innenfläche einem konstanten Temperaturunterschied
     von einem Grad Kelvin ausgesetzt sind. Je niedriger der U-Wert, umso höher
     die Dämmwirkung eines Bauteils.
-
