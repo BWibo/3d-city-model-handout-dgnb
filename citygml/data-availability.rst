@@ -9,6 +9,47 @@ CityGML-konforme semantische 3D-Stadtmodelle sind heute im :term:`LoD2<LoD>`
 für ganz Deutschland verfügbar. Je nach Region sind die Daten Open Data oder
 kostenpflichtig.
 
+
+.. index:: Koordinatensysteme, CRS
+
+*******************************************************************************
+Koordinatensysteme
+*******************************************************************************
+
+Das amtliche Lagekoordinatensystem in Deutschland ist das `Europäisches Terrestrisches
+Referenzsystem 1989 (ETRS89) <https://de.wikipedia.org/wiki/Europ%C3%A4isches_
+Terrestrisches_Referenzsystem_1989>`_. Im Jahr 1995 hat die :term:`AdV` die
+Einführung des ETRS89 in Verbindung mit dem `UTM-Koordinatensystem <https://de.
+wikipedia.org/wiki/UTM-Koordinatensystem>`_ beschlossen, das System wurde damit
+für alle Vermessungsverwaltungen verpflichtend.
+Seit 2016 gilt für die Landesvermessung der `Integrierte Raumbeuzg 2016 <https://
+de.wikipedia.org/wiki/Integrierter_Raumbezug_2016>`_, der ETRS89 als Lagekoordinatensystem
+und das `DHHN2016 <https://de.wikipedia.org/wiki/Deutsches_Haupth%C3%B6hennetz#DHHN2016>`_
+als Höhensystem festlegt.
+
+Ältere Geodaten liegen häufig noch im Vorgänger des ETRS89, dem
+`Gauß-Krüger-Koordinatensystem <https://de.wikipedia.org/wiki/Gau%C3%9F-Kr%C3%BCger-
+Koordinatensystem>`_ vor.
+
+.. rubric:: Weiterführende Links:
+
+* `AdV ETRS89 <https://www.adv-online.de/icc/extdeu/broker.jsp?uMen=4e9707b7-
+  f12f-9d01-3bbe-251ec0023010>`_
+
+* `AdV DHHN2016 <https://www.adv-online.de/icc/extdeu/nav/35e/broker.jsp?uMen
+  =35e603fa-0c7b-f551-b803-e76372e13d63&SP_fontsize=2>`_
+
+* `Runder Tisch GIS e.V.: Leitfaden Bezugssystemwechsel auf ETRS89/UTM <https://
+  rundertischgis.de/publikationen/leitfaeden.html#a_koordinatentrans>`_
+
+* `Übersicht UTM-Zonen in Europa <https://de.wikipedia.org/wiki/UTM-Koordinatensystem#
+  /media/Datei:LA2-Europe-UTM-zones.png>`_
+
+* `Übersicht UTM-Zonen in Deutschland <https://www.ldbv.bayern.de/file/png/10317/o/UTM_Zonen.png>`_
+
+* `Übersicht amtl. Referenzsysteme LDBV <https://www.ldbv.bayern.de/vermessung/
+  satellitenpositionierung/raumbezug/grundlagen.html>`_
+
 .. index:: Datenquellen
 
 *******************************************************************************
