@@ -4,12 +4,37 @@
 Literatur
 ###############################################################################
 
-.. [Kolb2009] Kolbe, T. H. (2009): *Representing and Exchanging 3D City Models with
+.. CityGML Basics -------------------------------------------------------------
+
+.. [Kolbe_2009] Kolbe, T. H. (2009): *Representing and Exchanging 3D City Models with
     CityGML.* In: Lee, J., Zlatanova, S. (eds.): Proceedings of the 3rd
     International Workshop on 3D Geo-Information 2008 in Seoul, South Korea.
     Lecture Notes in Geoinformation & Cartography, Springer Verlag, 2009.
-    Weblink (accessed March 2020):
     http://mediatum.ub.tum.de/doc/1145752/947446.pdf
+
+.. CityGML Standard -----------------------------------------------------------
+.. [OGC_2008] Gröger G., Kolbe, T. H., Czerwinski, A., Nagel C. (2008): *OpenGIS
+    City Geography Markup Language (CityGML) Encoding Standard, Version
+    1.0.0. Open Geospatial Consortium*, Doc. No. 08-007r1, August 20th.
+    http://portal.opengeospatial.org/files/?artifact_id=28802
+
+.. [OGC_2012] Gröger G., Kolbe, T. H., Nagel C., Häfele, K. H. (2012): *OpenGIS City
+    Geography Markup Language (CityGML) Encoding Standard, Version 2.0.0.*
+    Open Geospatial Consortium, Doc. No. 12-019,
+    http://portal.opengeospatial.org/files/?artifact_id=28802
+
+.. [Kolbe_2021] Kolbe, T. H., Kutzner, T., Smyth C.S., Nagel, C., Roensdorf,
+    C, Heazel, C.(2021): *OGC City Geography Markup Language (CityGML) Part 1:
+    Conceptual Model Standard*, Version 3.0.0.,
+    Open Geospatial Consortium, Doc. No. 20-010,
+    https://docs.ogc.org/is/20-010/20-010.html
+
+.. [Heazel_2021] Heazel, C.(2021): *OGC City Geography Markup Language (CityGML) 3.0
+    Conceptual Model Users Guide*, Version 1.0.,
+    Open Geospatial Consortium, Doc. No. 20-066,
+    https://docs.ogc.org/guides/20-066.html
+
+
 
 .. [YaKo2017] Yao, Z., Kolbe, T. H. (2017): *Dynamically Extending Spatial Databases
     to support CityGML Application Domain Extensions using Graph
@@ -47,28 +72,6 @@ Literatur
 
 .. [Herr2001] Herring, J. (2001): *The OpenGIS Abstract Specification, Topic 1:
     Feature Geometry (ISO 19107 Spatial Schema)*. OGC Document Number 01-101
-
-.. [GKNH2012] Gröger G., Kolbe, T. H., Nagel C., Häfele, K. H. (2012): OpenGIS City
-    Geography Markup Language (CityGML) Encoding Standard, Version 2.0.0.
-    Open Geospatial Consortium, Doc. No. 12-019, Weblink (accessed March 2020):
-    http://portal.opengeospatial.org/files/?artifact_id=28802
-
-.. [GKCN2008] Gröger G., Kolbe, T. H., Czerwinski, A., Nagel C. (2008): OpenGIS
-    City Geography Markup Language (CityGML) Encoding Standard, Version
-    1.0.0. Open Geospatial Consortium, Doc. No. 08-007r1, August 20th.
-    Weblink (accessed March 2020):
-    http://portal.opengeospatial.org/files/?artifact_id=28802
-
-.. [KKSN2021] Kolbe, T. H., Kutzner, T., Smyth C.S., Nagel, C., Roensdorf,
-    C, Heazel, C.(2021): *OGC City Geography Markup Language (CityGML) Part 1:
-    Conceptual Model Standard*, Version 3.0.0.,
-    Open Geospatial Consortium, Doc. No. 20-010,
-    https://docs.ogc.org/is/20-010/20-010.html
-
-.. [C2021] Heazel, C.(2021): *OGC City Geography Markup Language (CityGML) 3.0
-    Conceptual Model Users Guide*, Version 1.0.,
-    Open Geospatial Consortium, Doc. No. 20-066,
-    https://docs.ogc.org/guides/20-066.html
 
 .. [ChYK2015] Chaturvedi, K., Yao, Z., Kolbe, T. H. (2015): *Web-based Exploration of
     and Interaction with Large and Deeply Structured Semantic 3D City Models
