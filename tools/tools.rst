@@ -82,6 +82,9 @@ Mit Docker können Sie beispielsweise eine 3DCityDB-Instanz in wenigen Sekunden
 in Betrieb nehmen, ohne einen Datenbankserver oder das 3DCityDB-Datenbankschema
 einrichten zu müssen, wie in :numref:`citydb_docker` gezeigt.
 
+* `Beispiel: KML-Visualisierung von CityGML mit Docker in 5 Minuten <https://3dcitydb-
+  docs.readthedocs.io/en/latest/impexp/docker.html#importer-exporter-docker-
+  combined-with-3dcitydb-docker>`_
 
 .. figure:: https://3dcitydb-docs.readthedocs.io/en/latest/_images/citydb_docker_term.gif
   :name: citydb_docker
