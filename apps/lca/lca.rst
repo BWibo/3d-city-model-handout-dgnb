@@ -48,12 +48,12 @@ Ziel einer Ökobilanz
 
 Bevor eine Ökobilanz gerechnet wird, muss zunächst das Ziel definiert werden.
 Wichtig ist, dass eine klare Fragestellung vorhanden ist, auf die die Untersuchung
-abgestimmt wird. Beispiele für solche Fragestellungen wären: „Welcher Dämmstoff
-emittiert im Laufe seines Lebenszyklus am wenigsten Treibhausgas (THG)-Emissionen?“
-„Welche Fassadenart benötigt für ihre Herstellung am wenigsten nicht-erneuerbare
-Primärenergie?“ „Welcher Energiestandard erlaubt bei diesem Gebäude eine
-lebenszyklusbezogene THG-Neutralität?“ Fragen wie: „Ist dieses Produkt umweltfreundlicher
-als ein anderes?“ „Holz oder Beton?“– sind zu wenig präzise, um sie mit einer
+abgestimmt wird. Beispiele für solche Fragestellungen wären: "Welcher Dämmstoff
+emittiert im Laufe seines Lebenszyklus am wenigsten Treibhausgas (THG)-Emissionen?"
+"Welche Fassadenart benötigt für ihre Herstellung am wenigsten nicht-erneuerbare
+Primärenergie?" "Welcher Energiestandard erlaubt bei diesem Gebäude eine
+lebenszyklusbezogene THG-Neutralität?" Fragen wie: "Ist dieses Produkt umweltfreundlicher
+als ein anderes?" "Holz oder Beton?" - sind zu wenig präzise, um sie mit einer
 Ökobilanz beantworten zu können, weil sich umgehend weiterführende Fragestellungen
 ergeben wie beispielsweise: Unter welchen zeitlichen und räumlichen Umständen
 (Systemgrenzen, Rahmenbedingungen)? Wo und wie werden die Produkte verwendet
@@ -63,8 +63,9 @@ Funktionelle Einheit
 ===============================================================================
 
 Die funktionelle Einheit beschreibt die zentrale Bezugsgröße, auf die sich die Ökobilanz
-bezieht, also zum Beispiel, 1 m\ :sup:`3`\ Baumaterial, 1 m\ :sup:`2`\ beheizte Wohnfläche, 1 Gebäudenutzer,
-1 Bürogebäude etc. Die errechneten Ergebnisse der Ökobilanz beziehen sich auf diese Einheit.
+bezieht, also zum Beispiel, 1 m\ :sup:`3`\ Baumaterial, 1 m\ :sup:`2`\ beheizte Wohnfläche,
+1 Gebäudenutzer, 1 Bürogebäude etc. Die errechneten Ergebnisse der Ökobilanz beziehen sich
+auf diese Einheit.
 
 Systemgrenzen
 ===============================================================================
@@ -107,7 +108,7 @@ und spezifische Datensätze (z.B. für ein Material eines bestimmten Herstellers
 Ergebnisdarstellung
 ===============================================================================
 
-Die Ergebnisse von Ökobilanzen gliedern sich in viele Kategorien: Hier gibt es zunächst die „Inputs“, d.h. Materialien
+Die Ergebnisse von Ökobilanzen gliedern sich in viele Kategorien: Hier gibt es zunächst die "Inputs", d.h. Materialien
 und Energie, wie zum Beispiel der nicht erneuerbare Primärenergiebedarf (:term:`PENRT`) in MJ. Oft wird diese Kategorie dargestellt,
 wenn es um den Ressourceneinsatz geht. Zweite wichtige Säule sind die Umweltwirkungen. In der aktuellen Diskussion ist hier
 in den meisten Fällen vom globalen Erwärmungspotential (global warming potential = :term:`GWP`), gemessen in THG Äquivalenten, die Rede.
@@ -118,21 +119,21 @@ Lebenszyklusanalysen bzw. Ökobilanzen großer Gebäudebestände
 *******************************************************************************
 
 Mit Hilfe der Nutzung von 3D-Stadtmodellen hat Herr Hannes Harter im Rahmen seiner Dissertation
-mit dem Titel "Lebenszyklusanalyse der Technischen Gebäudeausrüstung großer Wohngebäudebestände
+mit dem Titel "Lebenszyklusanalyse der Technischen Gebäudeausrüstung großer Wohngebäudebestände
 auf der Basis semantischer 3D-Stadtmodelle" eine Methode bzw. einen generischen Ansatz zur
 Berechnung der lebenszyklusbasierten energetischen, emissions- und kostenbezogenen Bilanz von Gebäuden
-und deren Technischer Gebäudeausrüstung (TGA) entwickelt. Der generische Ansatz ermöglicht, dass die Methode
+und deren Technischer Gebäudeausrüstung (TGA) entwickelt. Der generische Ansatz ermöglicht, dass die Methode
 auf beliebig große Gebäudebestände (einzelne Gebäude, Stadtquartiere, Städte usw.) angewendet werden kann.
 
-Die entwickelte Methode wurde programmierseitig umgesetzt (Java) und mündet in einem Softwaretool, das
+Die entwickelte Methode wurde programmierseitig umgesetzt (Java) und muündet in einem Softwaretool, das
 ermöglicht, die Methode iterativ auf eine beliebig große Anzahl von Gebäuden anzuwenden. Zudem
-erlaubt das Tool die Durchführung und Berechnung verschiedener Entwicklungsszenarien bspw. mit dem Ziel
-der Klimaneutralität. Das Softwaretool wird „urbi+“ genannt, das als Abkürzung für „urban
-improvement“ steht. Das „+“ signalisiert den offenen Ansatz, der bei der Entwicklung verfolgt wurde.
-Dieser Ansatz ermöglicht es, weitere Bewertungs- und Analysehorizonte in fortführenden Arbeiten in
+erlaubt das Tool die Durchführung und Berechnung verschiedener Entwicklungsszenarien bspw. mit dem Ziel
+der Klimaneutralität. Das Softwaretool wird **urbi+** genannt, das als Abkürzung für "urban
+improvement" steht. Das ``+`` signalisiert den offenen Ansatz, der bei der Entwicklung verfolgt wurde.
+Dieser Ansatz ermöglicht es, weitere Bewertungs- und Analysehorizonte in fortführenden Arbeiten in
 urbi+ zu integrieren. Dabei ist z. B. die Erweiterung auf Nichtwohngebäude und den Kühlenergiebedarf geplant.
-Es ist geplant, dass urbi+ bei der `v3sta UG <https://www.v3sta.de/>`_ für Untersuchungen im Rhamen
-der `Kommunalen Wärmeplanung <https://um.baden-wuerttemberg.de/de/service/publikation
+Es ist geplant, dass urbi+ bei der `v3sta UG <https://www.v3sta.de/>`_ für Untersuchungen im Rahmen
+der `kommunalen Wärmeplanung <https://um.baden-wuerttemberg.de/de/service/publikation
 /did/handlungsleitfaden-kommunale-waermeplanung/>`_
 von Kommunen in Baden-Württemberg zum Einsatz kommt.
 
