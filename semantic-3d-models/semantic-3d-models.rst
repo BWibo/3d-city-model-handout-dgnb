@@ -61,8 +61,8 @@ Die Neuerungen umfassen u.A.:
 
 Bisher sind kaum Daten in der neuen Version verfügbar.
 
-* `Neuerungen CityGML 3.0 im Detail <https://link.springer.com/article/10.1007/
-  s41064-020-00095-z>`_
+* `Neuerungen CityGML 3.0 im Detail <https://link.springer.com/article/10.1007/s41064-020-00095-z>`_
+* `TUM GIS CityGML 3.0 Projektseite <https://www.asg.ed.tum.de/gis/projekte/citygml-30/browse/2/>`_
 
 *******************************************************************************
 Weitere Links und Referenzen
