@@ -20,7 +20,7 @@ Modellierungsaspekte von semantischen 3D-Stadtmodellen
 
 .. index:: Multiskalige Modellierung, LoD, Level-of-Detail
 
-Multiskalike Modellierung
+Multiskalige Modellierung
 ===============================================================================
 
 `PhD Filip Biljecki: Level of Detail in 3D City models <https://filipbiljecki.com/phd.html>`_

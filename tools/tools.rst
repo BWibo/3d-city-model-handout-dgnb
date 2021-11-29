@@ -265,6 +265,75 @@ an Werkzeugen zur Datenbearbeitung.
   :width: 90 %
   :align: center
 
+.. index:: rtron, r:trån
+
+r:trån
+===============================================================================
+
+Konvertierungswerkzeug für CityGML nach/von OpenDRIVE.
+
+* `r:trån Homepage <https://rtron.io/>`_
+* `r:trån Github <https://github.com/tum-gis/rtron>`_
+
+.. image:: https://github.com/tum-gis/rtron/raw/main/rtron-documentation/src/orchid/resources/assets/images/rtron-preview.png
+  :width: 90 %
+  :align: center
+
+.. index:: CityGML Validierung
+
+*******************************************************************************
+Validierungswerkzeuge
+*******************************************************************************
+
+.. index:: CityDoctor
+
+CityDoctor
+===============================================================================
+
+Der CityDoctor ist ein Werkzeug zur Validierung und Reparatur von 3D-Stadtmodellen.
+Dass Tool kann die Syntax, Geometrien und die Semantik von Modellen prüfen und
+reparieren.
+
+* `CityDoctor Homepage <https://www.citydoctor.eu/en/citydoctor_main.html>`_
+
+
+.. index:: val3dity
+
+val3dity
+===============================================================================
+
+Validierung von 3D GML Geometrieobjekten.
+
+* `val3dity Homepage <http://geovalidation.bk.tudelft.nl/val3dity/>`_
+
+.. index:: Entwicklungswerkzeuge, CityGML Entwicklung
+
+*******************************************************************************
+Entwicklungswerkzeuge
+*******************************************************************************
+
+.. index:: CityGML Entwicklung, citygml4j
+
+citygml4j
+===============================================================================
+
+citygml4j ist eine quelloffene Java-Klassenbibliothek und API zur Erleichterung
+der Arbeit mit der CityGML. citygml4j erleichtert das Lesen, Verarbeiten und
+Schreiben von CityGML-Datensätzen sowie die Entwicklung von
+CityGML-fähigen Softwareanwendungen.
+
+* `citygml4j Github <https://github.com/citygml4j/citygml4j>`_
+
+
+.. index:: libcitygml
+
+libcitygml
+===============================================================================
+
+CityGML C++ library zum parsen von CityGML-Datensätzen, v.A. für 3D-Rendering.
+
+* `libcitygml Github <https://github.com/jklimke/libcitygml>`_
+
 *******************************************************************************
 Weitere Links und Referenzen
 *******************************************************************************
