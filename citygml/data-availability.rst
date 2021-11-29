@@ -1,19 +1,13 @@
-.. index:: CityGML Datenquellen, CityGML Datenverfügbarkeit,
-  Datenverfügbarkeit,Datenquellen
+.. index:: CityGML Daten
 
 ###############################################################################
-Datenquellen und Datenverfügbarkeit in Deutschland
+CityGML Daten
 ###############################################################################
 
-CityGML-konforme semantische 3D-Stadtmodelle sind heute im :term:`LoD2<LoD>`
-für ganz Deutschland verfügbar. Je nach Region sind die Daten Open Data oder
-kostenpflichtig.
-
-
-.. index:: Koordinatensysteme, CRS
+.. index:: Koordinatensysteme in Deutschland, CRS
 
 *******************************************************************************
-Koordinatensysteme
+Koordinatensysteme in Deutschland
 *******************************************************************************
 
 Das amtliche Lagekoordinatensystem in Deutschland ist das `Europäisches Terrestrisches
@@ -50,16 +44,21 @@ Koordinatensystem>`_ vor.
 * `Übersicht amtl. Referenzsysteme LDBV <https://www.ldbv.bayern.de/vermessung/
   satellitenpositionierung/raumbezug/grundlagen.html>`_
 
-.. index:: Datenquellen
+.. index:: CityGML Datenquellen, CityGML Datenverfügbarkeit,
+  Datenverfügbarkeit,Datenquellen, CityGML Datensätze DE
 
 *******************************************************************************
-Datenquellen
+Datenquellen und Datenverfügbarkeit in Deutschland
 *******************************************************************************
 
+CityGML-konforme semantische 3D-Stadtmodelle sind heute im :term:`LoD2<LoD>`
+für ganz Deutschland verfügbar. Je nach Region sind die Daten Open Data oder
+kostenpflichtig.
 Die wichtigste Bezugsquelle für semantische 3D-Stadtmodelle in Deutschland sind
 die Landesvermessungsämter, die landesweite Modelle zur Verfügung stellen und
 regelmäßig aktualisieren.
 
+.. index:: CityGML Datensätze amtlich
 
 Amtliche Datenquellen
 ===============================================================================
@@ -81,13 +80,15 @@ Amtliche Datenquellen
 `LDBV LoD2 Arbeitsstand <http://www.geodaten.bayern.de/download/uebersicht_LOD/LoD2_InternetUebersicht.pdf>`_
   Arbeitsstand bei der Aktualisierung der LoD2-Modelle des LDBV.
 
+.. index:: CityGML Datensätze international
+
 *******************************************************************************
 CityGML-Daten auf der ganzen Welt
 *******************************************************************************
 
 CityGML wird weltweit (besonders in Europa) eingesetzt.
 
-.. rubric:: Links
-
 `Awesome CityGML <https://github.com/OloOcki/awesome-citygml>`_
   Sammlung von internationalen CityGML-Modellen auf Github.
+`TU Delft Übersicht 3DCities <https://nervous-ptolemy-d29bcd.netlify.app/3dcities/>`_
+  Übersicht der TU-Delft zu Städten mit Open Data CityGML-Modellen.

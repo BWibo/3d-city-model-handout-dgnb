@@ -10,6 +10,7 @@ DGNB Seminar - Klimaneutraler Gebäudebestand mit 3D-Stadtmodellen
   :caption: Inhalt
 
   semantic-3d-models/semantic-3d-models
+  citygml/data-availability
   tools/tools
   apps/apps
   glossary/glossary
