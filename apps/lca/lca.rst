@@ -4,15 +4,15 @@
 Gebäude-Lebenszyklusanalyse
 ###############################################################################
 
-Anhand von Lebenszyklusanalysen auf Gebäudeebene lassen sich unter anderem die 
-ökologischen, ökonomischen und sozialen Auswirkungen von Gebäuden, bzw. deren 
+Anhand von Lebenszyklusanalysen auf Gebäudeebene lassen sich unter anderem die
+ökologischen, ökonomischen und sozialen Auswirkungen von Gebäuden, bzw. deren
 stofflicher und energetischer Ressourcenbedarf, auf unsere Umwelt (inkl. Menschen),
-über deren gesamten Lebenszyklus erfassen, analysieren, bewerten und optimieren.  
+über deren gesamten Lebenszyklus erfassen, analysieren, bewerten und optimieren.
 
 Eine ökologische Lebenszyklusanalyse wird im Deutschen "Ökobilanz" gennant. Werden die ökonomischen
 Aspekte im Rahmen einer Lebenszyklusanalyse betrachtet, dann spricht man von
 einer Lebenszykluskostenanalyse (engl. Life Cycle Cost Assessment). Die soziale Lebenszyklusanalyse
-wird im Englischen als "Social Life Cycle Assessment" bezeichnet. 
+wird im Englischen als "Social Life Cycle Assessment" bezeichnet.
 
 Bei einer gebäudebezogenen Lebenszyklusanalyse, die als Analyse- bzw. Untersuchungsziel
 das Thema der Klimaneutralität definiert, liegt der Fokus somit auf der Durchführung von
@@ -21,12 +21,13 @@ das Thema der Klimaneutralität definiert, liegt der Fokus somit auf der Durchf�
 *******************************************************************************
 Ökobilanzen von Gebäuden
 *******************************************************************************
-Die folgenden Inhalte aus diesem Grundlagenkapitel stammen aus der WECOBIS online-Publikation 
-`"Zwischen den Zeilen von Ökobilanzen" <https://www.wecobis.de/service/sonderthemen-info/gesamttext-oekobilanz-zwischen-den-zeilen-info.html>`
+Die folgenden Inhalte aus diesem Grundlagenkapitel stammen aus der WECOBIS online-Publikation
+`"Zwischen den Zeilen von Ökobilanzen" <https://www.wecobis.de/service/sonderthemen-info/gesam
+ttext-oekobilanz-zwischen-den-zeilen-info.html>`_
 von Patricia Schneider-Marin, Hannes Harter und Michael Vollmer.
 
 Ökobilanzen dienen grundsätzlich der Quantifizierung des Ressourceneinsatzes und
-der Umweltwirkungen von Produkten oder Dienstleistungen über deren Lebenszyklus. 
+der Umweltwirkungen von Produkten oder Dienstleistungen über deren Lebenszyklus.
 Werden Ökobilanzen berechnet, heißt das nicht zwangsläufig, dass das Objekt der
 Ökobilanz nachhaltig ist. Es bedeutet lediglich, dass die Umweltauswirkungen eines
 Produkts oder einer Dienstleistung über deren Lebenszyklus hinweg ermittelt und
@@ -42,7 +43,8 @@ auf verschiedenen Ebenen, z.B. für
 * Prozesse (z.B. Energieerzeugung) oder
 * ganze Gebäude.
 
-.. rubric:: Ziel einer Ökobilanz
+Ziel einer Ökobilanz
+===============================================================================
 
 Bevor eine Ökobilanz gerechnet wird, muss zunächst das Ziel definiert werden.
 Wichtig ist, dass eine klare Fragestellung vorhanden ist, auf die die Untersuchung
@@ -55,21 +57,24 @@ als ein anderes?“ „Holz oder Beton?“– sind zu wenig präzise, um sie mit
 Ökobilanz beantworten zu können, weil sich umgehend weiterführende Fragestellungen
 ergeben wie beispielsweise: Unter welchen zeitlichen und räumlichen Umständen
 (Systemgrenzen, Rahmenbedingungen)? Wo und wie werden die Produkte verwendet
-(Lebensdauer, Funktion)? Welche Datengrundlagen stehen für die Bilanzierung zur Verfügung? 
+(Lebensdauer, Funktion)? Welche Datengrundlagen stehen für die Bilanzierung zur Verfügung?
 
-.. rubric:: Funktionelle Einheit
+Funktionelle Einheit
+===============================================================================
 
 Die funktionelle Einheit beschreibt die zentrale Bezugsgröße, auf die sich die Ökobilanz
 bezieht, also zum Beispiel, 1 m\ :sup:`3`\ Baumaterial, 1 m\ :sup:`2`\ beheizte Wohnfläche, 1 Gebäudenutzer,
-1 Bürogebäude etc. Die errechneten Ergebnisse der Ökobilanz beziehen sich auf diese Einheit. 
+1 Bürogebäude etc. Die errechneten Ergebnisse der Ökobilanz beziehen sich auf diese Einheit.
 
-.. rubric:: Systemgrenzen
+Systemgrenzen
+===============================================================================
 
 Die Systemgrenze definiert sowohl den zeitlichen Betrachtungshorizont (z.B. Lebensdauer
 des Gebäudes, inkludierte Lebenszyklusphasen) als auch den räumlich-technischen
-(z.B. welche Materialien und Bauteile bilanziert werden, welche nicht). 
+(z.B. welche Materialien und Bauteile bilanziert werden, welche nicht).
 
-.. rubric:: Lebenszyklusphasen
+Lebenszyklusphasen
+===============================================================================
 
 Die Lebenszyklusphasen (siehe folgende Abbildung) unterteilen die komplette Lebensdauer des Gebäudes
 in einzelne Phasen, auch Module genannt. Die erste Phase stellt die Herstellungsphase (A1-A3) dar.
@@ -81,35 +86,38 @@ Austausch von Materialien und Bauteilen bilanziert. Nach der Nutzungsphase folgt
 und der Entsorgung und Aufbereitung von Materialien zu tun haben. Daraus entstehende Potentiale wie z.B.
 Recyclingpotentiale werden in der letzten Phase (Modul D) aufgeführt.
 
-.. image:: ../img/DIN15978_Grafik.png
-  :width: 90 %
+.. image:: ../../img/DIN15978_Grafik.png
+  :width: 100 %
   :align: center
 
-.. rubric:: Datenbanken
+Datenbanken
+===============================================================================
 
 Grundlagen für Gebäude-Ökobilanzen liefern Datenbanken, in denen Daten für ganze Produkte zusammengestellt
 sind, da eine individuelle Bilanzierung aller Prozesse, die für ein Gebäude notwendig sind, viel zu aufwendig
 wäre. Außerdem würden die Komplexität und die Vielzahl der Annahmen, die getroffen werden müssten, dazu führen,
-dass Ergebnisse kaum noch vergleichbar sind. Meistverwendet in Deutschland ist die `ÖKOBAUDAT <https://www.oekobaudat.de/>`.
+dass Ergebnisse kaum noch vergleichbar sind. Meistverwendet in Deutschland ist die
+`ÖKOBAUDAT <https://www.oekobaudat.de/>`_.
 Solche Datensätze sind Momentaufnahmen, die den Durchschnitt von produkt- und dienstleistungsbezogenen Produktions-,
 Nutzungs- und Entsorgungsprozessen abbilden. Diese können aufgrund technischer und politischer Änderungen dynamischen
 Schwankungen unterliegen, die in den Datensätzen nicht abgebildet werden. Außerdem gibt es grundsätzlich verschiedene
 Arten von Datensätzen, wie beispielweise Durchschnittsdatensätze (z.B. Mittelwert für ein Produkt in Deutschland)
-und spezifische Datensätze (z.B. für ein Material eines bestimmten Herstellers). 
+und spezifische Datensätze (z.B. für ein Material eines bestimmten Herstellers).
 
-.. rubric:: Ergebnisdarstellung
+Ergebnisdarstellung
+===============================================================================
 
 Die Ergebnisse von Ökobilanzen gliedern sich in viele Kategorien: Hier gibt es zunächst die „Inputs“, d.h. Materialien
-und Energie, wie zum Beispiel der nicht erneuerbare Primärenergiebedarf (PENRT) in MJ. Oft wird diese Kategorie dargestellt,
+und Energie, wie zum Beispiel der nicht erneuerbare Primärenergiebedarf (:term:`PENRT`) in MJ. Oft wird diese Kategorie dargestellt,
 wenn es um den Ressourceneinsatz geht. Zweite wichtige Säule sind die Umweltwirkungen. In der aktuellen Diskussion ist hier
-in den meisten Fällen vom globalen Erwärmungspotential (global warming potential = GWP), gemessen in THG Äquivalenten, die Rede.
+in den meisten Fällen vom globalen Erwärmungspotential (global warming potential = :term:`GWP`), gemessen in THG Äquivalenten, die Rede.
 Output-Kategorien (z.B. radioaktiver Abfall) kommen in Ergebnisdarstellungen selten vor.
 
 *******************************************************************************
 Lebenszyklusanalysen bzw. Ökobilanzen großer Gebäudebestände
 *******************************************************************************
 
-Mit Hilfe der Nutzung von 3D-Stadtmodellen hat Herr Hannes Harter im Rahmen seiner Dissertation 
+Mit Hilfe der Nutzung von 3D-Stadtmodellen hat Herr Hannes Harter im Rahmen seiner Dissertation
 mit dem Titel "Lebenszyklusanalyse der Technischen Gebäudeausrüstung großer Wohngebäudebestände
 auf der Basis semantischer 3D-Stadtmodelle" eine Methode bzw. einen generischen Ansatz zur
 Berechnung der lebenszyklusbasierten energetischen, emissions- und kostenbezogenen Bilanz von Gebäuden
@@ -123,8 +131,10 @@ der Klimaneutralität. Das Softwaretool wird „urbi+“ genannt, das als Abkü
 improvement“ steht. Das „+“ signalisiert den offenen Ansatz, der bei der Entwicklung verfolgt wurde.
 Dieser Ansatz ermöglicht es, weitere Bewertungs- und Analysehorizonte in fortführenden Arbeiten in
 urbi+ zu integrieren. Dabei ist z. B. die Erweiterung auf Nichtwohngebäude und den Kühlenergiebedarf geplant.
-Es ist geplant, dass urbi+ bei der `v3sta UG <https://www.v3sta.de/>` für Untersuchungen im Rhamen 
-der `Kommunalen Wärmeplanung <https://um.baden-wuerttemberg.de/de/service/publikation/did/handlungsleitfaden-kommunale-waermeplanung/>` 
+Es ist geplant, dass urbi+ bei der `v3sta UG <https://www.v3sta.de/>`_ für Untersuchungen im Rhamen
+der `Kommunalen Wärmeplanung <https://um.baden-wuerttemberg.de/de/service/publikation
+/did/handlungsleitfaden-kommunale-waermeplanung/>`_
 von Kommunen in Baden-Württemberg zum Einsatz kommt.
 
-Beispielhafte wissenschafliche Ergebnisse inkl. deren Visualisierung können unter der `Verlinkung auf GitHub <https://github.com/tum-gis/LCA-TGA>` eingesehen werden.
+Beispielhafte wissenschafliche Ergebnisse inkl. deren Visualisierung können unter der
+`Verlinkung auf GitHub <https://github.com/tum-gis/LCA-TGA>`_ eingesehen werden.

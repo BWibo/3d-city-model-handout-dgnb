@@ -59,38 +59,38 @@ Glossar: Begriffe und Definitionen
     für das gebäudespezifische Energiesystem und die unmittelbar damit verbundenen Komponenten.
     Hierzu zählen: Wärmeerzeuger, Wärmespeicher, Wärmeverteilleitungen und Wärmeübergabesysteme.
 
-Graue Energie
-    Die Grauen Energien sowie die daraus resultierenden Grauen Emissionen
-    und Grauen Kosten ergeben sich aus der Herstellungs-, Nutzungs- (Austausch und Ersatz)
-    und Entsorgungsphase der betrachteten TGA-Komponenten. Das Wort "Grau" umfasst die
-    genannten Lebenszyklusphasen.
+  Graue Energie
+      Die Grauen Energien sowie die daraus resultierenden Grauen Emissionen
+      und Grauen Kosten ergeben sich aus der Herstellungs-, Nutzungs- (Austausch und Ersatz)
+      und Entsorgungsphase der betrachteten TGA-Komponenten. Das Wort "Grau" umfasst die
+      genannten Lebenszyklusphasen.
 
 
-Operative Energie
-    Die Operativen Energien sowie die daraus resultierenden
-    Operativen Emissionen und Operativen Kosten ergeben sich aus der Nutzungsphase
-    (Raumheizung und Trinkwarmwasser) der betrachteten Gebäude. Das Wort "Operativ"
-    umfasst somit als Oberbegriff die genannte Lebenszyklusphasen für Raumheizung
-    und Trinkwarmwasser.
+  Operative Energie
+      Die Operativen Energien sowie die daraus resultierenden
+      Operativen Emissionen und Operativen Kosten ergeben sich aus der Nutzungsphase
+      (Raumheizung und Trinkwarmwasser) der betrachteten Gebäude. Das Wort "Operativ"
+      umfasst somit als Oberbegriff die genannte Lebenszyklusphasen für Raumheizung
+      und Trinkwarmwasser.
 
-Erneuerbare Energien
-    `Erneuerbare Energien <https://www.umweltbundesamt.de/themen/klima-energie/erneuerbare-energien>`_
-    sind Wind- und Sonnenenergie, Biomasse, Geothermie und Wasserkraft.
-    Der Begriff Erneuerbare Energien steht in dieser Arbeit übergreifend
-    für die Technologien der Erneuerbaren Energien, die im Gebäudesektor
-    Anwendung finden. Hierzu zählen bspw. Wärmepumpen, Biomasse-Kessel,
-    Photovoltaik-Anlagen etc.
+  Erneuerbare Energien
+      `Erneuerbare Energien <https://www.umweltbundesamt.de/themen/klima-energie/erneuerbare-energien>`_
+      sind Wind- und Sonnenenergie, Biomasse, Geothermie und Wasserkraft.
+      Der Begriff Erneuerbare Energien steht in dieser Arbeit übergreifend
+      für die Technologien der Erneuerbaren Energien, die im Gebäudesektor
+      Anwendung finden. Hierzu zählen bspw. Wärmepumpen, Biomasse-Kessel,
+      Photovoltaik-Anlagen etc.
 
-GWP
-    Die Abkürzung GWP steht für
-    `Treibhausgaspotential (engl. Global Warming Potential) <https://www.klimaprofis.com/lexikon/gwp/>`_
-    und definiert das Klimaerwärmungspotential eines Treibhausgases in
-    der Einheit CO\ :sub:`2`\ -Äquivalente.
+  GWP
+      Die Abkürzung GWP steht für
+      `Treibhausgaspotential (engl. Global Warming Potential) <https://www.klimaprofis.com/lexikon/gwp/>`_
+      und definiert das Klimaerwärmungspotential eines Treibhausgases in
+      der Einheit CO\ :sub:`2`\ -Äquivalente.
 
-PENRT
-    Die `totale nicht-erneuerbare Primärenergie (PENRT) <https://www.baubook.at/m/PHP/Fragezeichen.php?S_oekz_Typ=1&SW=27&SG_open=2502>`_
-    beschreibt den Energieinhalt einer nicht-erneuerbaren Primärenergiequelle (Rohöl, Erdgas, etc.).
+  PENRT
+      Die `totale nicht-erneuerbare Primärenergie (PENRT) <https://www.baubook.at/m/PHP/Fragezeichen.php?S_oekz_Typ=1&SW=27&SG_open=2502>`_
+      beschreibt den Energieinhalt einer nicht-erneuerbaren Primärenergiequelle (Rohöl, Erdgas, etc.).
 
-PERT
-    Die `totale erneuerbare Primärenergie (PERT) <https://www.baubook.at/m/PHP/Fragezeichen.php?SF=PENRT_PERT&SW=33>`_
-    beschreibt den Energieinhalt einer erneuerbaren Primärenergiequelle (Wasserkraft, Umweltwärme, etc.).
+  PERT
+      Die `totale erneuerbare Primärenergie (PERT) <https://www.baubook.at/m/PHP/Fragezeichen.php?SF=PENRT_PERT&SW=33>`_
+      beschreibt den Energieinhalt einer erneuerbaren Primärenergiequelle (Wasserkraft, Umweltwärme, etc.).
