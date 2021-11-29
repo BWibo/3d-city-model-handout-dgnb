@@ -49,6 +49,10 @@ Application Domain Extensions (ADE)
 ===============================================================================
 
 * `Artikel Überblick ADEs <https://opengeospatialdata.springeropen.com/articles/10.1186/s40965-018-0055-6>`_
+* `Energy ADE OGC <https://www.ogc.org/taxonomy/term/492>`_
+* `Energy ADE Github <https://github.com/3dcitydb/energy-ade-citydb>`_
+* `Noise ADE <https://github.com/citygml4j/noise-ade-citygml4j>`_
+* `Utility Network ADE <https://github.com/TatjanaKutzner/CityGML-UtilityNetwork-ADE>`_
 
 .. index:: CityGML v3.0
 
