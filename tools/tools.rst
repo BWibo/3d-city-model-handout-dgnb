@@ -27,7 +27,7 @@ abschätzen:
 https://www.koordinaten-umrechner.de
   Website, auf der sich eine Position in verschiedenen Koordinatensystemen
   anzeigen bzw. Umrechnen lässt. In Deutschland liegen die meisten Daten im
-  amtllichen Koordinatensystem ETRS89, UTM-Zone 32N oder 33N vor.
+  amtlichen Koordinatensystem ETRS89, UTM-Zone 32N oder 33N vor.
 
 .. index:: 3DCityDB
 
