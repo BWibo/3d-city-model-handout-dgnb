@@ -40,17 +40,17 @@ Glossar: Begriffe und Definitionen
     die Dämmwirkung eines Bauteils.
 
   API
-    `Application Programming Interfaces (APIs) <https://www.dev-insider.de/was-ist-eine-api-a-583923/>`
+    `Application Programming Interfaces (APIs) <https://www.dev-insider.de/was-ist-eine-api-a-583923/>`_
     werden dazu genutzt Informationen zwischen einer Anwendung und einzelnen Programmteilen
     standardisiert auszutauschen und dienen als eine Programmierschnittstelle.
 
   Spreadsheet
     Ein Spreadsheet ist ein digitales Tabellenblatt, das Daten in Zellen, angeordnet
     in Zeilen und Spalten, enthalten kann. Solche Spreadsheets können z. B. in
-    Microsoft Excel erstellt und online bereitgestellt werden. 
+    Microsoft Excel erstellt und online bereitgestellt werden.
 
-  XML 
-    Die Abkürzung XML steht für `Extensible Markup Language <https://www.dev-insider.de/was-ist-xml-a-692619/>`
+  XML
+    Die Abkürzung XML steht für `Extensible Markup Language <https://www.dev-insider.de/was-ist-xml-a-692619/>`_
     und definiert eine digitale Datenstruktur. Die in dieser Datenstruktur
     enthaltenen Daten sind sowohl von Maschinen (Computern) als auch Menschen lesbar.
 
@@ -58,7 +58,7 @@ Glossar: Begriffe und Definitionen
     Der Begriff Technische Gebäudeausrüstung steht im Rahmen dieser Arbeit als Oberbegriff
     für das gebäudespezifische Energiesystem und die unmittelbar damit verbundenen Komponenten.
     Hierzu zählen: Wärmeerzeuger, Wärmespeicher, Wärmeverteilleitungen und Wärmeübergabesysteme.
-    
+
 Graue Energie
     Die Grauen Energien sowie die daraus resultierenden Grauen Emissionen
     und Grauen Kosten ergeben sich aus der Herstellungs-, Nutzungs- (Austausch und Ersatz)
@@ -74,24 +74,23 @@ Operative Energie
     und Trinkwarmwasser.
 
 Erneuerbare Energien
-    `Erneuerbare Energien <https://www.umweltbundesamt.de/themen/klima-energie/erneuerbare-energien>`
+    `Erneuerbare Energien <https://www.umweltbundesamt.de/themen/klima-energie/erneuerbare-energien>`_
     sind Wind- und Sonnenenergie, Biomasse, Geothermie und Wasserkraft.
     Der Begriff Erneuerbare Energien steht in dieser Arbeit übergreifend
     für die Technologien der Erneuerbaren Energien, die im Gebäudesektor
     Anwendung finden. Hierzu zählen bspw. Wärmepumpen, Biomasse-Kessel,
     Photovoltaik-Anlagen etc.
-  
+
 GWP
-    Die Abkürzung GWP steht für `Treibhausgaspotential (engl. Global Warming Potential) <https://www.klimaprofis.com/lexikon/gwp/>`
+    Die Abkürzung GWP steht für
+    `Treibhausgaspotential (engl. Global Warming Potential) <https://www.klimaprofis.com/lexikon/gwp/>`_
     und definiert das Klimaerwärmungspotential eines Treibhausgases in
     der Einheit CO\ :sub:`2`\ -Äquivalente.
 
-PENRT 
-    Die `totale nicht-erneuerbare Primärenergie (PENRT) <https://www.baubook.at/m/PHP/Fragezeichen.php?S_oekz_Typ=1&SW=27&SG_open=2502>`
+PENRT
+    Die `totale nicht-erneuerbare Primärenergie (PENRT) <https://www.baubook.at/m/PHP/Fragezeichen.php?S_oekz_Typ=1&SW=27&SG_open=2502>`_
     beschreibt den Energieinhalt einer nicht-erneuerbaren Primärenergiequelle (Rohöl, Erdgas, etc.).
 
-PERT 
-    Die `totale erneuerbare Primärenergie (PERT) <https://www.baubook.at/m/PHP/Fragezeichen.php?SF=PENRT_PERT&SW=33>`
+PERT
+    Die `totale erneuerbare Primärenergie (PERT) <https://www.baubook.at/m/PHP/Fragezeichen.php?SF=PENRT_PERT&SW=33>`_
     beschreibt den Energieinhalt einer erneuerbaren Primärenergiequelle (Wasserkraft, Umweltwärme, etc.).
-
-  
