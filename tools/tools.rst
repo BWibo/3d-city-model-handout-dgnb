@@ -2,10 +2,6 @@
 Werkzeuge für CityGML
 ###############################################################################
 
-.. toctree::
-  :maxdepth: 3
-
-
 *******************************************************************************
 Datenauswahl und Übersicht
 *******************************************************************************
@@ -47,25 +43,62 @@ standardisierten semantischen Datenmodellen aus den Bereichen
 BIM (Building Information Modelling) und GIS (Geographische Informationssysteme),
 das vom Karlsruher Institut für Technologie (KIT) entwickelt wird.
 
-* `FZK Viewer <https://www.iai.kit.edu/1302.php>`_
+* `FZK Viewer Homepage <https://www.iai.kit.edu/1302.php>`_
 
+.. image:: ../img/fzk_viewer.png
+  :width: 90 %
+  :align: center
 
+.. index:: FME Data Inspector
 
-.. index:: FME Inspector
-
-FME Inspector
+FME Data Inspector
 ===============================================================================
 
-Visualisierungswerkzeug von Safe Software FME Desktop.
-
-
+Der FME Data Inspector ist das Visualisierungswerkzeug des Safe Software
+FME Desktop Softwarepakets. Die Software ist kostenpflichtig und läuft auf
+allen gängigen Betriebssystemen. Neben CityGML wird eine große Anzahl weiterer
+Format aus dem GIS-Bereich und darüber hinaus unterstützt. Der Viewer ist sowohl
+für die Anzeige von 2D, als auch 3D-Daten geeignet.
 
 * `FME Desktop <https://www.safe.com/fme/fme-desktop/>`_
-* `FME Desktop download <https://www.safe.com/support/downloads/>`_
+* `FME Desktop Download <https://www.safe.com/support/downloads/>`_
 
+.. image:: ../img/fme-inspector-2d.png
+  :width: 90 %
+  :align: center
 
-.. index:: Datentransformation, Transformation, Analysewerkzeug,
-  ETL
+.. image:: ../img/fme-inspector-3d.png
+  :width: 90 %
+  :align: center
+
+.. index:: Azul
+
+Azul
+===============================================================================
+
+Azul ist ein CityGML und CityJSON Viewer, der an der TU-Delft entwickelt wird.
+Die Software ist Open Source und unterstützt nur MacOS.
+
+* `Azul Github <https://github.com/tudelft3d/azul>`_
+
+.. image:: ../img/azul.png
+  :width: 90 %
+  :align: center
+
+.. index:: Elyx 3D Viewer
+
+Elyx 3D Viewer
+===============================================================================
+
+Azul ist ein CityGML und CityJSON Viewer, der an der TU-Delft entwickelt wird.
+Die Software ist Open Source und unterstützt nur MacOS.
+
+* `Elyx 3D Viewer Homepage <Elyx 3D Viewer>`_
+
+.. image:: ../img/azul.png
+  :width: 90 %
+  :align: center
+
 
 .. index:: 3DCityDB
 
@@ -89,6 +122,31 @@ Sammlung aus Open Source Softwarewerkzeugen für den CityGML-Standard.
 
 
 
+
+.. index:: Datentransformation, Transformation, Analysewerkzeug,
+  ETL
+
+*******************************************************************************
+Datentransformation und Analysen
+*******************************************************************************
+
+FME Workbench
+===============================================================================
+
+.. image:: ../img/fme-workbench.png
+  :width: 90 %
+  :align: center
+
+
+
+
+*******************************************************************************
+Weitere Links und Referenzen
+*******************************************************************************
+
+`TU Delft CityGML Website <https://nervous-ptolemy-d29bcd.netlify.app/>`_
+  Website der TU-Delft 3D-Geoinformation Group Rund um CityGML. Auflistung von
+  Tools, Beispieldaten, internationalen CityGML-Datensätzen, uvm.
 
 
 

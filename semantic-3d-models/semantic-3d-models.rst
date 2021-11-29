@@ -42,9 +42,27 @@ Zeit
 City Geography Markup Language (CityGML)
 *******************************************************************************
 
+* `OGC CityGML Standard Dokumente <https://www.ogc.org/standards/citygml>`_
 
+.. index:: CityGML v3.0
 
+CityGML v3.0
+===============================================================================
 
+Im Juni 2021 wurde die neuste Version des CityGML-Standards veröffentlicht.
+Die Neuerungen umfassen u.A.:
+
+* Neues Space-Konzept
+* Darstellung zeitabhängiger Eigenschaften
+* Verwaltung mehrerer Versionen eines Stadtmodells
+* Repräsentation von Stadtmodellen durch Punktwolken
+* Verbesserte Modellierung von sonstigen Bauwerken
+* Verbesserte Darstellung von Verkehrsinfrastruktur
+
+Bisher sind kaum Daten in der neuen Version verfügbar.
+
+* `Neuerungen CityGML 3.0 im Detail <https://link.springer.com/article/10.1007/
+  s41064-020-00095-z>`_
 
 *******************************************************************************
 Weitere Links und Referenzen
