@@ -273,7 +273,5 @@ Weitere Links und Referenzen
   Website der TU-Delft 3D-Geoinformation Group Rund um CityGML. Auflistung von
   Tools, Beispieldaten, internationalen CityGML-Datensätzen, uvm.
 
-
-
 .. images ---------------------------------------------------------------------
 .. |copy| unicode:: U+000A9 .. COPYRIGHT SIGNs
