@@ -9,13 +9,11 @@ Werkzeuge für CityGML
 *******************************************************************************
 Datenauswahl und Übersicht
 *******************************************************************************
-
-Vor der Auswahl von Daten lohnt sich ein Blick auf die Übersicht zu den amtlichen
-:ref:`Koordinatensystemen <citygml/data-availability:Koordinatensysteme in Deutschland>`
-in Deutschland.
-
-Falls die Daten ETRS89 vorliegen, kann man mit dieser Grafik die UTM-Zone der Daten
-abschätzen:
+Vor der Verwendung von CityGML-Daten, sollte man sich eine Überblick über die
+verschiedenen
+:ref:`Koordinatensysteme <citygml/data-availability:Koordinatensysteme in Deutschland>`
+in Deutschland machen. Falls die Daten ETRS89 vorliegen, kann man mit dieser
+Grafik die UTM-Zone der Daten abschätzen:
 
 .. figure:: https://www.ldbv.bayern.de/file/png/10317/o/UTM_Zonen.png
   :width: 50 %
@@ -24,10 +22,11 @@ abschätzen:
 
   Übersicht UTM-Zonen in Deutschland |copy| `LDBV <https://www.ldbv.bayern.de/>`_
 
-https://www.koordinaten-umrechner.de
+* https://www.koordinaten-umrechner.de:
   Website, auf der sich eine Position in verschiedenen Koordinatensystemen
-  anzeigen bzw. Umrechnen lässt. In Deutschland liegen die meisten Daten im
-  amtlichen Koordinatensystem ETRS89, UTM-Zone 32N oder 33N vor.
+  anzeigen bzw. umrechnen lässt. In Deutschland liegen die meisten Daten im
+  amtlichen Koordinatensystem ETRS89, UTM-Zone 32N oder 33N vor. Die Webseite
+  kann bei der Selektion von Datenkacheln hilfreich sein.
 
 .. index:: 3D City Database, 3DCityDB, WFS, Web Feature Service, Importer/Exporter
 
@@ -57,22 +56,24 @@ Die 3D City Database umfasst die folgenden Werkzeuge:
 * `3DCityDB offizielle Homepage <https://www.3dcitydb.org/3dcitydb/>`_
 * `3DCityDB Github <https://github.com/3dcitydb>`_
 * `3DCityDB Online Dokumentation <https://3dcitydb-docs.readthedocs.io/en/latest/>`_
+* Literatur zur 3D City Database: [Kunde_2013]_, [Yao_2016]_, [Yao_2017]_, [Yao_2018]_,
+  [Kolbe_2009a]_, [Chaturvedi_2015]_
 
 .. index:: Docker
 
 3DCityDB Docker
 ===============================================================================
 
-Alle 3D City Database Werkzeuge stehen als Docker images zur Verfügung.
-Eine Einführung in die Images gibt es `hier <https://3dcitydb-docs.readthedocs.io/en
+Alle 3D City Database Werkzeuge stehen als Docker Images zur Verfügung.
+Eine Einführung zu den Images gibt es `hier <https://3dcitydb-docs.readthedocs.io/en
 /latest/first-steps/docker.html>`_. Der Einstieg in die 3DCityDB wird mit den
-Images wesentlich erleichtert, alles "out of the box" funktioniert und z.B. die
-komplizierte Installation eine Datenbankservers wegfällt.
+Images wesentlich erleichtert, da alles "out of the box" funktioniert und z.B. die
+komplizierte Installation eines Datenbankservers wegfällt.
 
 `Docker <https://www.docker.com/>`_  ist eine weit verbreitete Virtualisierungstechnologie,
 die es ermöglicht, eine Anwendung mit allen erforderlichen Ressourcen in
 eine standardisierte Einheit - den Docker-Container - zu packen.
-Auf diese Weise gekapselte Software kann auf Linux, Windows, macOS und den meisten
+Auf diese Weise gekapselte Software kann auf Linux, Windows, MacOS und den meisten
 Cloud-Diensten ohne weitere Änderungen oder Einrichtungsprozesse ausgeführt werden.
 Im Vergleich zu herkömmlichen Virtualisierungsumgebungen, die ein ganzes Betriebssystem
 emulieren, sind Docker-Container leichtgewichtig, da sie nur die Anwendung und alle
@@ -80,11 +81,11 @@ dafür benötigten Tools, Programmbibliotheken und Dateien enthalten.
 
 Mit Docker können Sie beispielsweise eine 3DCityDB-Instanz in wenigen Sekunden
 in Betrieb nehmen, ohne einen Datenbankserver oder das 3DCityDB-Datenbankschema
-einrichten zu müssen, wie in :numref:`citydb_docker` gezeigt.
+einrichten zu müssen, siehe :numref:`citydb_docker`.
 
-* `Beispiel: KML-Visualisierung von CityGML mit Docker in 5 Minuten <https://3dcitydb-
-  docs.readthedocs.io/en/latest/impexp/docker.html#importer-exporter-docker-
-  combined-with-3dcitydb-docker>`_
+* Beispiel: CityGML zu KML-Visualisierungsdaten mit Docker konvertiert Docker in 5 Minuten:
+  `Beispiel Docu <https://3dcitydb-docs.readthedocs.io/en/latest/impexp/docker.html#
+  importer-exporter-docker-combined-with-3dcitydb-docker>`_
 
 .. figure:: https://3dcitydb-docs.readthedocs.io/en/latest/_images/citydb_docker_term.gif
   :name: citydb_docker
@@ -184,7 +185,7 @@ in LoD1 und LoD2.
 3dfier
 ===============================================================================
 
-Der 3dfier hebt 2D-Geometrien in die dritte Dimension mit Höhendaten aus
+Der Open Source 3dfier hebt 2D-Geometrien in die dritte Dimension mit Höhendaten aus
 LiDAR-Befliegungen.
 
 * `3dfier Github <https://github.com/tudelft3d/3dfier>`_
@@ -206,7 +207,7 @@ osm2citygml
 Random3DCity
 ===============================================================================
 
-Werkzeug zur ERzeugung zufälliger 3D-Stadtmodelle, das an der TU-DElft entwickelt wird.
+Werkzeug zur Erzeugung zufälliger 3D-Stadtmodelle, das an der TU-DElft entwickelt wird.
 
 * `Random3Dcity Github <https://github.com/tudelft3d/Random3Dcity>`_
 
@@ -258,11 +259,11 @@ FME Workbench
 ===============================================================================
 
 FME gilt als das *Schweizer Taschenmesser* unter den GIS Werkzeugen. Es unterstützt
-nahezu alle Formate der GIS-Welt und bietet einen umfangreichen Katalog an
+nahezu alle Formate der GIS-Welt und bietet einen umfangreichen Katalog
 an Werkzeugen zur Datenbearbeitung.
 
 * `Safe Software Homepage <https://www.safe.com/>`_
-* `FME Transformer GAllery <https://www.safe.com/transformers/>`_
+* `FME Transformer Gallery <https://www.safe.com/transformers/>`_
 
 .. image:: ../img/fme-workbench.png
   :width: 90 %
@@ -273,7 +274,7 @@ an Werkzeugen zur Datenbearbeitung.
 r:trån
 ===============================================================================
 
-Konvertierungswerkzeug für CityGML nach/von OpenDRIVE.
+Open Source Konvertierungswerkzeug für CityGML nach/von OpenDRIVE.
 
 * `r:trån Homepage <https://rtron.io/>`_
 * `r:trån Github <https://github.com/tum-gis/rtron>`_
@@ -321,12 +322,11 @@ citygml4j
 ===============================================================================
 
 citygml4j ist eine quelloffene Java-Klassenbibliothek und API zur Erleichterung
-der Arbeit mit der CityGML. citygml4j erleichtert das Lesen, Verarbeiten und
-Schreiben von CityGML-Datensätzen sowie die Entwicklung von
-CityGML-fähigen Softwareanwendungen.
+der Arbeit mit CityGML. citygml4j erleichtert das Lesen, Verarbeiten und
+Schreiben von CityGML-Datensätzen sowie die Entwicklung von CityGML-fähigen
+Softwareanwendungen.
 
 * `citygml4j Github <https://github.com/citygml4j/citygml4j>`_
-
 
 .. index:: libcitygml
 
@@ -341,8 +341,8 @@ CityGML C++ library zum parsen von CityGML-Datensätzen, v.A. für 3D-Rendering.
 Weitere Links und Referenzen
 *******************************************************************************
 
-`TU Delft CityGML Website <https://nervous-ptolemy-d29bcd.netlify.app/>`_
-  Website der TU-Delft 3D-Geoinformation Group Rund um CityGML. Auflistung von
+* `TU Delft CityGML Website <https://nervous-ptolemy-d29bcd.netlify.app/>`_:
+  Website der TU-Delft 3D-Geoinformation Group rund um CityGML. Auflistung von
   Tools, Beispieldaten, internationalen CityGML-Datensätzen, uvm.
 
 .. images ---------------------------------------------------------------------
