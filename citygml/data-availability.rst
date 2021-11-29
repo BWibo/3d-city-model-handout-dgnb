@@ -92,3 +92,5 @@ CityGML wird weltweit (besonders in Europa) eingesetzt.
   Sammlung von internationalen CityGML-Modellen auf Github.
 `TU Delft Übersicht 3DCities <https://nervous-ptolemy-d29bcd.netlify.app/3dcities/>`_
   Übersicht der TU-Delft zu Städten mit Open Data CityGML-Modellen.
+`BAG 3D <https://3dbag.nl>`_
+  CityJSON-Modell von ganz Holland in verschiedenen LoDs.

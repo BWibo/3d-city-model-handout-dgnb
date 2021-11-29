@@ -1,6 +1,11 @@
+.. index:: CityGML Werkzeuge
+
 ###############################################################################
 Werkzeuge für CityGML
 ###############################################################################
+
+
+.. index:: Datenauswahl
 
 *******************************************************************************
 Datenauswahl und Übersicht
@@ -20,11 +25,29 @@ abschätzen:
 
   Übersicht UTM-Zonen in Deutschland |copy| `LDBV <https://www.ldbv.bayern.de/>`_
 
-
 https://www.koordinaten-umrechner.de
   Website, auf der sich eine Position in verschiedenen Koordinatensystemen
   anzeigen bzw. Umrechnen lässt. In Deutschland liegen die meisten Daten im
   amtllichen Koordinatensystem ETRS89, UTM-Zone 32N oder 33N vor.
+
+.. index:: 3DCityDB
+
+*******************************************************************************
+3D City Database Suite
+*******************************************************************************
+
+Sammlung an Open Source Softwarewerkzeugen für den CityGML-Standard.
+
+* `3DCityDB offizielle Homepage <https://www.3dcitydb.org/3dcitydb/>`_
+* `3DCityDB Github <https://github.com/3dcitydb>`_
+* `3DCityDB Online Dokumentation <https://3dcitydb-docs.readthedocs.io/en/latest/>`_
+
+
+.. index:: 3DCityDB
+
+3D City Database (3DcityDB)
+===============================================================================
+
 
 
 .. index:: Visualisierung
@@ -85,43 +108,46 @@ Die Software ist Open Source und unterstützt nur MacOS.
   :width: 90 %
   :align: center
 
-.. index:: Elyx 3D Viewer
+.. index:: CityGML Generator
 
-Elyx 3D Viewer
+*******************************************************************************
+CityGML Generatoren
+*******************************************************************************
+
+.. index:: VCS BuildingReconstruction
+
+Virtual City Systems: BuildingReconstruction
 ===============================================================================
 
-Azul ist ein CityGML und CityJSON Viewer, der an der TU-Delft entwickelt wird.
-Die Software ist Open Source und unterstützt nur MacOS.
+Kommerzielles Werkzeug zur automatisierten Ableitung großer 3D-Stadtmodelle
+in LoD1 und LoD2.
 
-* `Elyx 3D Viewer Homepage <Elyx 3D Viewer>`_
+* `VCS B-Rec Homepage <https://vc.systems/en/products/building-reconstruction/>`_
 
-.. image:: ../img/azul.png
+.. image:: https://vc.systems/wp-content/uploads/2020/09/brec_attributes_en_web_1920px.png
   :width: 90 %
   :align: center
+  :target: https://vc.systems/en/products/building-reconstruction/
 
+.. image:: https://vc.systems/wp-content/uploads/2020/09/brec_roof-library_web_1920px.png
+  :width: 90 %
+  :align: center
+  :target: https://vc.systems/en/products/building-reconstruction/
 
-.. index:: 3DCityDB
+.. index:: 3dfier
 
-*******************************************************************************
-3DCityDB Software
-*******************************************************************************
-
-Sammlung aus Open Source Softwarewerkzeugen für den CityGML-Standard.
-
-* `3DCityDB offizielle Homepage <https://www.3dcitydb.org/3dcitydb/>`_
-* `3DCityDB Github <https://github.com/3dcitydb>`_
-* `3DCityDB Online Dokumentation <https://3dcitydb-docs.readthedocs.io/en/latest/>`_
-
-
-
-
-.. index:: 3DCityDB
-
-3D City Database (3DcityDB)
+3dfier
 ===============================================================================
 
+Der 3dfier hebt 2D-Geometrien in die dritte Dimension mit Höhendaten aus
+LiDAR-Befliegungen.
 
+* `3dfier Github <https://github.com/tudelft3d/3dfier>`_
+* `3dfier Artikel <https://doi.org/10.21105/joss.02866>`_
 
+.. image:: https://github.com/tudelft3d/3dfier/raw/master/docs/images/leiden3dfier.png
+  :width: 90 %
+  :align: center
 
 .. index:: Datentransformation, Transformation, Analysewerkzeug,
   ETL
@@ -130,15 +156,30 @@ Sammlung aus Open Source Softwarewerkzeugen für den CityGML-Standard.
 Datentransformation und Analysen
 *******************************************************************************
 
+.. index:: 3DCityDB
+
+3D City Database (3DCityDB)
+===============================================================================
+
+Die 3D City Database ist eines der mächtigsten Analysewerkzeuge für CityGML-Modelle.
+Analysen über räumliche und nicht-räumliche Daten sind besonders performant,
+da die Serialisierung bzw. De-Serialisierung von XML-Daten während des
+Analyseworkflows entfällt und die Indexstrukturen der Datenbank genutzt werden können.
+Für komplexe räumliche Abfragen stehen die umfassenden Funktion von
+`PostGIS <https://postgis.net>`_ bzw. `Oracle Spatial <https://www.oracle.com/de/
+database/spatial/>`_ zur Verfügung.
+
+* :ref:`Links und Referenzen zur 3DCityDB <tools/tools:3D City Database Suite>`
+
+.. index:: FME Workbench
+
 FME Workbench
 ===============================================================================
 
 .. image:: ../img/fme-workbench.png
   :width: 90 %
   :align: center
-
-
-
+s
 
 *******************************************************************************
 Weitere Links und Referenzen
@@ -151,4 +192,4 @@ Weitere Links und Referenzen
 
 
 .. images ---------------------------------------------------------------------
-.. |copy| unicode:: U+000A9 .. COPYRIGHT SIGN
+.. |copy| unicode:: U+000A9 .. COPYRIGHT SIGNs
