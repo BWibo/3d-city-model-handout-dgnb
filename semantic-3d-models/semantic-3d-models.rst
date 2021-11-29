@@ -28,7 +28,6 @@ Multiskalige Modellierung
   räumliche Analysen an der `TU Delft <https://repository.tudelft.nl/islandora/object
   /uuid%3A6fe1dea8-53b3-4734-9e0c-ff01ed393d79>`_.
 
-
 Zeit
 ===============================================================================
 
@@ -43,6 +42,13 @@ City Geography Markup Language (CityGML)
 *******************************************************************************
 
 * `OGC CityGML Standard Dokumente <https://www.ogc.org/standards/citygml>`_
+
+.. index:: CityGML ADE
+
+Application Domain Extensions (ADE)
+===============================================================================
+
+* `Artikel Überblick ADEs <https://opengeospatialdata.springeropen.com/articles/10.1186/s40965-018-0055-6>`_
 
 .. index:: CityGML v3.0
 
