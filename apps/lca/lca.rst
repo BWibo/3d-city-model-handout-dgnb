@@ -21,6 +21,7 @@ das Thema der Klimaneutralität definiert, liegt der Fokus somit auf der Durchf�
 *******************************************************************************
 Ökobilanzen von Gebäuden
 *******************************************************************************
+
 Die folgenden Inhalte aus diesem Grundlagenkapitel stammen aus der WECOBIS online-Publikation
 `"Zwischen den Zeilen von Ökobilanzen" <https://www.wecobis.de/service/sonderthemen-info/gesam
 ttext-oekobilanz-zwischen-den-zeilen-info.html>`_
@@ -125,7 +126,7 @@ Berechnung der lebenszyklusbasierten energetischen, emissions- und kostenbezogen
 und deren Technischer Gebäudeausrüstung (TGA) entwickelt. Der generische Ansatz ermöglicht, dass die Methode
 auf beliebig große Gebäudebestände (einzelne Gebäude, Stadtquartiere, Städte usw.) angewendet werden kann.
 
-Die entwickelte Methode wurde programmierseitig umgesetzt (Java) und muündet in einem Softwaretool, das
+Die entwickelte Methode wurde programmierseitig umgesetzt (Java) und mündet in einem Softwaretool, das
 ermöglicht, die Methode iterativ auf eine beliebig große Anzahl von Gebäuden anzuwenden. Zudem
 erlaubt das Tool die Durchführung und Berechnung verschiedener Entwicklungsszenarien bspw. mit dem Ziel
 der Klimaneutralität. Das Softwaretool wird **urbi+** genannt, das als Abkürzung für "urban
