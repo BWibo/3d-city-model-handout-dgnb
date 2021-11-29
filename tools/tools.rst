@@ -4,7 +4,6 @@
 Werkzeuge für CityGML
 ###############################################################################
 
-
 .. index:: Datenauswahl
 
 *******************************************************************************
@@ -12,8 +11,8 @@ Datenauswahl und Übersicht
 *******************************************************************************
 
 Vor der Auswahl von Daten lohnt sich ein Blick auf die Übersicht zu den amtlichen
-:ref:`Koordinatensystemen <citygml/data-availability:Koordinatensysteme>` in
-Deutschland.
+:ref:`Koordinatensystemen <citygml/data-availability:Koordinatensysteme in Deutschland>`
+in Deutschland.
 
 Falls die Daten ETRS89 vorliegen, kann man mit dieser Grafik die UTM-Zone der Daten
 abschätzen:
