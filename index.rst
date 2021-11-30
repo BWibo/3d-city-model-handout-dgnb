@@ -25,5 +25,6 @@ DGNB Seminar - Klimaneutraler Gebäudebestand mit 3D-Stadtmodellen
   glossary/glossary
   literature
   contact
+  demo/demo
 
 * :ref:`genindex`
