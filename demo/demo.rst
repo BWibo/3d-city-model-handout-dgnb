@@ -98,7 +98,7 @@ Vorbereitung
   docker run -d --name citydb \
       -p 5432:5432 \
       --network citydb-net \
-      -e POSTGRES_PASSWORD=postgres \
+      -e POSTGRES_PASSWORD=changeMe \
       -e SRID=25832 \
     3dcitydb/3dcitydb-pg:latest-alpine \
       postgres \
