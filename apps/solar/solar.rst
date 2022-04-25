@@ -16,12 +16,14 @@ Features
   rstuhlangehoerige/bruno-willenborg/#c639>`_
 
 .. figure:: ../../img/webcl-dresden.jpg
-  :width: 90 %
+  :width: 100 %
   :align: center
   :target: target url
   :name: webcl_solar
 
-  3D-Web-Map-Client Dresden
+  3D-Web-Map-Client zur Solarpotentialanalyse mit dem Stadtmodell Dresden.
+  Die Gebäudetexturen zeigen die solare Einstrahlung von blau (wenig Einstrahlung)
+  nach rot (viel Einstrahlung).
 
 *******************************************************************************
 Online Demos
