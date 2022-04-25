@@ -94,8 +94,13 @@ CityGML-Daten auf der ganzen Welt
 CityGML wird weltweit eingesetzt. Die folgenden Seiten Listen meist frei zugängliche
 CityGML-Modelle von Ländern und Städten weltweit auf:
 
-* `Awesome CityGML <https://github.com/OloOcki/awesome-citygml>`_:
-  Sammlung von internationalen CityGML-Modellen auf Github.
+* |awesome_cg| `Awesome CityGML <https://github.com/OloOcki/awesome-citygml>`_:
+  Sammlung von internationalen Open Source CityGML-Modellen auf Github.
 * `TU Delft Übersicht 3DCities <https://nervous-ptolemy-d29bcd.netlify.app/3dcities/>`_:
   Übersicht der TU-Delft zu Städten mit Open Data CityGML-Modellen.
 * `BAG 3D <https://3dbag.nl>`_: CityJSON-Modell von ganz Holland in verschiedenen LoDs.
+
+
+.. |awesome_cg| image:: ../img/awesome_citygml_icon.png
+  :width: 100 px
+  :target: https://github.com/OloOcki/awesome-citygml
