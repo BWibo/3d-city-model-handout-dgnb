@@ -98,6 +98,8 @@ CityGML-Modelle von Ländern und Städten weltweit auf:
   Sammlung von internationalen Open Source CityGML-Modellen auf Github.
 * `TU Delft Übersicht 3DCities <https://nervous-ptolemy-d29bcd.netlify.app/3dcities/>`_:
   Übersicht der TU-Delft zu Städten mit Open Data CityGML-Modellen.
+* `TU Delft Übersicht Open Data cities <https://3d.bk.tudelft.nl/opendata/opencities/>`_:
+  Übersicht über internationale Städte mit Open Data Stadtmodellen.
 * `BAG 3D <https://3dbag.nl>`_: CityJSON-Modell von ganz Holland in verschiedenen LoDs.
 
 
