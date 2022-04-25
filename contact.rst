@@ -15,12 +15,11 @@ Kontakt
 :Github: | https://github.com/BWibo
          | https://github.com/tum-gis
 
-.. rubric:: Hannes Harter
+.. rubric:: Dr. Hannes Harter
 
-:eMail: | hannes.harter(at)tum.de
-        | hannes.harter(at)v3sta.de
+:eMail: | hannes.harter(at)v3sta.de
 
-:Telefon: +49 89 289-23969
+:Telefon: +49 172 5847714
 
 :Web: |tum_hh|
 
@@ -46,14 +45,14 @@ Kontakt
   :target: https://www.linkedin.com/in/hannes-harter-a5605b165/
 
 .. |tum_bw| image:: img/icon/favicon_tum.svg
-  :width: 25 px
+  :width: 30 px
   :align: middle
   :target: https://www.asg.ed.tum.de/gis/unser-team/lehrstuhlangehoerige/bruno-willenborg/
 
-.. |tum_hh| image:: img/icon/favicon_tum.svg
-  :width: 25 px
+.. |tum_hh| image:: img/icon/v3sta.webp
+  :width: 50 px
   :align: middle
-  :target: https://www.cee.ed.tum.de/enpb/team/hannes-harter/
+  :target: https://www.v3sta.de/
 
 .. |rg_bw| image:: img/icon/researchgate.svg
   :width: 25 px
