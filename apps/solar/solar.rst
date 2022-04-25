@@ -30,16 +30,18 @@ Online Demos
 3D-Web-Map-Client München
 ===============================================================================
 
-.. rubric:: 4 Berechnungsszenarien:
+Die Webclient Demo zeigt vier Berechnungsszenarien für ganz München aus einer
+wissenschaftlichen Untersuchung zum Einfluss der Vegetation und verschiedener
+LoDs von Stadtmodellen auf die Ergebnisse der Solarpotentialanalyse.
 
-  * LoD1 mit Vegetation
-  * LoD1 ohne Vegetation
-  * LoD2 mit Vegetation
-  * LoD2 ohne Vegetation
+.. rubric:: Berechnungsszenarien:
 
-.. note:: Beste Performance mit GoogleChome und starker Grafikkarte.
+* LoD1 mit Vegetation
+* LoD1 ohne Vegetation
+* LoD2 mit Vegetation
+* LoD2 ohne Vegetation
 
-|:rocket:|  `Webclient Link <https://www.3dcitydb.org/3dcitydb/fileadmin/public/3dcitydb-web-map/3dwebclient/
+Hier geht's zur Demo: |:rocket:|  `Webclient Link <https://www.3dcitydb.org/3dcitydb/fileadmin/public/3dcitydb-web-map/3dwebclient/
 ?t=3DCityDB-Web-Map-Client&s=false&ts=0&la=48.146479&lo=11.568271&h=659.643&hd=343.25&p=-30
 .38&r=359.94&l_0=u%3Dhttps%253A%252F%252Fwww.3dcitydb.org%252F3dcitydb%252Ffileadmin%2
 52Fpublic%252F3dwebclientprojects%252FmunichSolarFull%252Fvegetation%252Fmunich_vegetati
@@ -72,3 +74,6 @@ GM1%26iconUrl%3Dhttps%253A%252F%252Fwww.3dcitydb.org%252F3dcitydb%252Ffileadmin%
 dwebclientprojects%252Fdgm.png%26tooltip%3DLDBV%2520-%2520DGM1%26url%3Dhttps%253A%252F%252Fwww.3
 dcitydb.org%252F3dcitydb%252Ffileadmin%252Fpublic%252F3dwebclientprojects%252Fterrain_bay_geomas
 sendaten&sw=>`_ |:rocket:|
+
+.. note:: Der Webclient hat die beste Performance mit GoogleChome und profitiert von einer
+  starken Grafikkarte.
