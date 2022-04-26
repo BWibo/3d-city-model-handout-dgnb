@@ -144,6 +144,10 @@ Filter erklären
 
 2. SQL Query
 
+  .. code-block:: text
+
+    D:\dgnb\3_stockwerke.gml
+
   .. code-block:: sql
 
     SELECT c.id
@@ -152,6 +156,10 @@ Filter erklären
     AND b.storeys_above_ground = 3
 
 3. XML Query
+
+  .. code-block:: text
+
+    D:\dgnb\kleines_haus_am_see.gml
 
   .. code:: xml
 
