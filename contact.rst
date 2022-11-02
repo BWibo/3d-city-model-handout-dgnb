@@ -21,7 +21,7 @@ Kontakt
 
 :Telefon: +49 172 5847714
 
-:Web: |tum_hh|
+:Web: |ntnu_hh| |vesta_hh|
 
 :Social: |linkedin_hh| |rg_hh|
 
@@ -49,7 +49,7 @@ Kontakt
   :align: middle
   :target: https://www.asg.ed.tum.de/gis/unser-team/lehrstuhlangehoerige/bruno-willenborg/
 
-.. |tum_hh| image:: img/icon/v3sta.webp
+.. |vesta_hh| image:: img/icon/v3sta.webp
   :width: 50 px
   :align: middle
   :target: https://www.v3sta.de/
@@ -63,3 +63,8 @@ Kontakt
   :width: 25 px
   :align: middle
   :target: https://www.researchgate.net/profile/Hannes-Harter
+
+.. |ntnu_hh| image:: img/icon/logo_ntnu.svg
+  :width: 40 px
+  :align: middle
+  :target: https://www.ntnu.no/ansatte/hannes.m.harter
