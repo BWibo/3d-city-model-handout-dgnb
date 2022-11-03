@@ -278,7 +278,7 @@ Docker
   docker run -d --name citydb \
       -p 5432:5432 \
       --network citydb-net \
-      -e POSTGRES_PASSWORD=postgres \
+      -e POSTGRES_PASSWORD=changeMe \
       -e SRID=25832 \
     3dcitydb/3dcitydb-pg:latest-alpine
 
@@ -294,7 +294,7 @@ Docker Import
       -H citydb \
       -d postgres \
       -u postgres \
-      -p postgres \
+      -p changeMe \
       /data/out.gml
 
 Docker 3DVis Export
@@ -310,7 +310,7 @@ Docker 3DVis Export
       -H citydb \
       -d postgres \
       -u postgres \
-      -p postgres \
+      -p changeMe \
       -l 2 \
       -D collada \
       -G \
@@ -332,10 +332,10 @@ Docker Export Table
   docker run -i -t --rm --name impexp \
       --network citydb-net \
       -v "$PWD:/data" \
-    3dcitydb/impexp:4.3.0-alpine export-table \
+    3dcitydb/impexp:latest-alpine export-table \
       -H citydb \
       -d postgres \
       -u postgres \
-      -p postgres \
+      -p changeMe \
       -l /data/ldbv-attribs.txt \
       -o /data/attributes.csv
