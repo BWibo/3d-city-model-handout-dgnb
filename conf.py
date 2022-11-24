@@ -17,15 +17,17 @@
 # sys.path.insert(0, os.path.abspath('.'))
 import sphinx_rtd_theme
 import subprocess
+import datetime
 
 # -- Project information -----------------------------------------------------
-project = u''
+project = u'DGNB Seminar - Klimaneutraler Gebäudebestand mit 3D-Stadtmodellen'
 copyright = u'2022, Bruno Willenborg & Hannes Harter'
 author = u'Bruno Willenborg & Hannes Harter'
 
 # The short X.Y version
-version =  '1.2.0'
-release = '1.2.0'
+semver = '1.2.0'
+version =  'v' + semver + " - " + datetime.date.today().isoformat()
+release = semver
 
 # -- General configuration ---------------------------------------------------
 
