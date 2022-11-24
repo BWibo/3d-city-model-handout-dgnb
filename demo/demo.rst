@@ -295,7 +295,7 @@ Docker Import
       -d postgres \
       -u postgres \
       -p postgres \
-      /data/out.gml
+      "/data/out.gml"
 
 Docker 3DVis Export
 ===============================================================================
@@ -321,7 +321,7 @@ Docker 3DVis Export
       -a FMETheme \
       -g auto=250 \
       -j \
-      -o /data/gltf/out.kml
+      -o "/data/gltf/out.kml"
 
 
 Docker Export Table
@@ -337,5 +337,5 @@ Docker Export Table
       -d postgres \
       -u postgres \
       -p postgres \
-      -l /data/ldbv-attribs.txt \
-      -o /data/attributes.csv
+      -l "/data/ldbv-attribs.txt" \
+      -o "/data/attributes.csv"
