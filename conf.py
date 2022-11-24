@@ -20,7 +20,7 @@ import subprocess
 
 # -- Project information -----------------------------------------------------
 project = u''
-copyright = u'2021, Bruno Willenborg & Hannes Harter'
+copyright = u'2022, Bruno Willenborg & Hannes Harter'
 author = u'Bruno Willenborg & Hannes Harter'
 
 # The short X.Y version
