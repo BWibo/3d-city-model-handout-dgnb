@@ -24,8 +24,8 @@ copyright = u'2021, Bruno Willenborg & Hannes Harter'
 author = u'Bruno Willenborg & Hannes Harter'
 
 # The short X.Y version
-version =  '1.1.0'
-release = '1.1.0'
+version =  '1.2.0'
+release = '1.2.0'
 
 # -- General configuration ---------------------------------------------------
 
@@ -73,7 +73,7 @@ copybutton_here_doc_delimiter = "EOT"
 #
 # This is also used if you do content translation via gettext catalogs.
 # Usually you set "language" from the command line for these cases.
-language = None
+language = 'de'
 
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
