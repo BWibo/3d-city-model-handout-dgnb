@@ -5,13 +5,17 @@ Literatur
 ###############################################################################
 
 .. [Chaturvedi_2015] Chaturvedi, K., Yao, Z., Kolbe, T. H. (2015): *Web-based Exploration of
-    and Interaction with Large and Deeply Structured Semantic 3D City Models
-    using HTML5 and WebGL.* In: Proc. of the 35th Annual Conference of the
-    German Society for Photogrammetry, Remote Sensing and Geoinformation
-    (DGPF).
-    https://mediatum.ub.tum.de/node?id=1245285
+     and Interaction with Large and Deeply Structured Semantic 3D City Models
+     using HTML5 and WebGL*. In: Proc. of the 35th Annual Conference of the
+     German Society for Photogrammetry, Remote Sensing and Geoinformation
+     (DGPF). https://mediatum.ub.tum.de/node?id=1245285
 
-.. [Heazel_2021] Heazel, C.(2021): *OGC City Geography Markup Language (CityGML) 3.0
+.. [Biljecki_2015] Biljecki, F., Stoter, J., Ledoux, H., Zlatanova, S.,
+     Çöltekin, A. (2015): *Applications of 3D City Models: State of the Art Review*.
+     ISPRS Int. J. Geo-Inf. 2015, 4, 2842-2889.
+     https://doi.org/10.3390/ijgi4042842
+
+.. [Heazel_2021] Heazel, C. (2021): *OGC City Geography Markup Language (CityGML) 3.0
     Conceptual Model Users Guide*, Version 1.0.,
     Open Geospatial Consortium, Doc. No. 20-066.
     https://docs.ogc.org/guides/20-066.html
@@ -28,7 +32,7 @@ Literatur
     http://www.3dcitydb.org/3dcitydb/fileadmin/downloaddata/3DCityDB-Documentation-v2_0.pdf
 
 .. [Kolbe_2021] Kolbe, T. H., Kutzner, T., Smyth C.S., Nagel, C., Roensdorf,
-    C, Heazel, C.(2021): *OGC City Geography Markup Language (CityGML) Part 1:
+    C, Heazel, C. (2021): *OGC City Geography Markup Language (CityGML) Part 1:
     Conceptual Model Standard*, Version 3.0.0.,
     Open Geospatial Consortium, Doc. No. 20-010.
     https://docs.ogc.org/is/20-010/20-010.html
@@ -52,7 +56,7 @@ Literatur
     Visualisierung großer 3D-Stadtmodelle durch Erweiterung des Cesium Web
     Globe*. In: Kolbe, T. H., Bill, R., Donaubauer, A. (eds.):
     Geoinformationssysteme 2016 - Beiträge zur 3. Münchner GI-Runde, 24.-25.
-    2. 2016, Wichmann Verlag, Berlin.
+    2016, Wichmann Verlag, Berlin.
     http://mediatum.ub.tum.de/doc/1296408/547142.pdf
 
 .. [Yao_2017] Yao, Z., Kolbe, T. H. (2017): *Dynamically Extending Spatial Databases
