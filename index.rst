@@ -14,6 +14,8 @@ DGNB Seminar - Klimaneutraler Gebäudebestand mit 3D-Stadtmodellen
   Übersicht zu Daten, Werkzeugen und Datenströmen auf dem Weg der Geodaten hin zum
   klimaneutralen Gebäudebestand.
 
+.. rubric::  Letzte Aktualisierung: |last_build|
+
 .. toctree::
   :maxdepth: 3
   :caption: Inhalt

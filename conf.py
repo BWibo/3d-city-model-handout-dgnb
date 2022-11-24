@@ -25,9 +25,14 @@ copyright = u'2022, Bruno Willenborg & Hannes Harter'
 author = u'Bruno Willenborg & Hannes Harter'
 
 # The short X.Y version
-semver = '1.2.0'
-version =  'v' + semver + " - " + datetime.date.today().isoformat()
+semver = '1.3.0'
+version = semver
+# version =  'v' + semver + " - " + datetime.date.today().isoformat()
 release = semver
+
+# Last build date
+last_build = datetime.date.today().isoformat()
+rst_epilog = '.. |last_build| replace:: %s' % last_build
 
 # -- General configuration ---------------------------------------------------
 
